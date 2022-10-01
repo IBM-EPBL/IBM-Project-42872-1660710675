@@ -10,3 +10,6 @@ Brainstorming and Idea prioritization template uploaded.
 
 24-09-2022 :
 Proposed solution uploaded.
+
+01-10-2022:
+Problem solution-fit uploaded
