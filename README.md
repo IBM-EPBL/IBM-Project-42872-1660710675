@@ -15,3 +15,5 @@ Proposed solution uploaded.
 Problem solution-fit uploaded.
 02-10-2022:
 Solution architecture uploaded.
+22-10-2022:
+Uploaded till project planning template.
